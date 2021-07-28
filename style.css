@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(#33ffcc, #33ccff, #3366ff, #9933ff, #ff33ff, #ff3399, #ff3366);
+}
+
+#image1 {
+    height: 500px;
+    width: 400px;
+}
+
+p2 {
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+p3 {
+    text-align: left;
+}
+
+.links {
+    float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: "Cinzel Decorative", cursive;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
